@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=90EE90&text=CHRIXTIA&section=header&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=60&descAlignY=50&fontAlignY=43" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=90EE90&text=CHRIXTIA&section=header&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=30&descAlignY=50&fontAlignY=43" width="100%" />
   <br/>
   
   <table align="center" border="0">
@@ -64,5 +64,5 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chrixtia&theme=grass&hide_border=true&background=f0fff0&stroke=90EE90&ring=3CB371&fire=3CB371&currStreakNum=2E8B57" alt="GitHub Streak" />
   </p>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=90EE90&section=footer&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=60&descAlignY=50&fontAlignY=43" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=90EE90&section=footer&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=60&descAlignY=50&fontAlignY=43" width="100%" />
 </div>
