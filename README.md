@@ -17,6 +17,14 @@
       </td>
     </tr>
   </table>
+
+  <br>
+  
+  <p align="center">
+    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=90EE90" /></a>
+    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=C1FFC1" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&color=2E8B57" /></a>
+  </p>
   
   ---
   
@@ -54,15 +62,6 @@
   ### 🍃 Daily Contribution Streak
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chrixtia&theme=grass&hide_border=true&background=f0fff0&stroke=90EE90&ring=3CB371&fire=3CB371&currStreakNum=2E8B57" alt="GitHub Streak" />
-  </p>
-  
-  ---
-  
-  ### 🤝 Let's Grow Together
-  <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=90EE90" /></a>
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=C1FFC1" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&color=2E8B57" /></a>
   </p>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=90EE90&section=footer&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=60&descAlignY=50&fontAlignY=43" width="100%" />
