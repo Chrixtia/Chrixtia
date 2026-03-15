@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=90EE90&text=CHRIXTIA&section=header&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=60&descAlignY=50&fontAlignY=43" width="100%" />
   <br/>
@@ -27,6 +25,15 @@
     <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,tailwind,python,lua,mongodb,arduino,npm,expressjs,git,nextjs,discordjs&theme=light" />
   </p>
   
+  ---
+
+  ### 🌿 Featured Projects
+  <div align="center">
+    <a href="https://github.com/Chrixtia/Roblox-Username-generator">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chrixtia&repo=Roblox-Username-generator&theme=dark&bg_color=f0fff0&title_color=2e8b57&icon_color=3CB371&text_color=2e8b57&hide_border=true" />
+    </a>
+  </div>
+
   ---
   
   ### 📈 Activity Pulse
