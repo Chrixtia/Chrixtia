@@ -27,7 +27,7 @@
   
   ---
 
-  ### 🌿 Featured Projects
+  ### 🌿 Featured Project/s
   <div align="center">
     <a href="https://github.com/Chrixtia/Roblox-Username-generator">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chrixtia&repo=Roblox-Username-generator&theme=dark&bg_color=f0fff0&title_color=2e8b57&icon_color=3CB371&text_color=2e8b57&hide_border=true" />
@@ -36,7 +36,7 @@
 
   ---
   
-  ### 📈 Activity Pulse
+  ### 📈 Activity
   
   <div align="center">
     <table border="0">
