@@ -33,33 +33,6 @@
   </p>
   
   ---
-  
-  ### Featured Project/s
-  <div align="center">
-    <a href="https://github.com/Chrixtia/SpotiNotes">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chrixtia&repo=SpotiNotes&theme=dark&bg_color=f0fff0&title_color=2e8b57&icon_color=3CB371&text_color=2e8b57&hide_border=true" />
-    </a>
-    <a href="https://github.com/Chrixtia/Roblox-Username-generator">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chrixtia&repo=Roblox-Username-generator&theme=dark&bg_color=f0fff0&title_color=2e8b57&icon_color=3CB371&text_color=2e8b57&hide_border=true" />
-    </a>
-  </div>
-  
-  ---
-  
-  <div align="center">
-    <table border="0" width="100%">
-      <tr align="center">
-        <td width="33%">
-          <img src="https://github-readme-stats.vercel.app/api?username=Chrixtia&show_icons=true&theme=dark&bg_color=f0fff0&title_color=2e8b57&icon_color=3CB371&text_color=2e8b57&hide_border=true" width="100%" />
-        </td>
-        <td width="33%">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chrixtia&theme=grass&hide_border=true&background=f0fff0&stroke=90EE90&ring=3CB371&fire=3CB371&currStreakNum=2E8B57" width="100%" />
-        </td>
-        <td width="33%">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrixtia&layout=compact&theme=dark&bg_color=f0fff0&title_color=2e8b57&text_color=2e8b57&hide_border=true" width="100%" />
-        </td>
-      </tr>
-    </table>
-  </div>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=90EE90&section=footer&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=60&descAlignY=50&fontAlignY=43" width="100%" />
 </div>
