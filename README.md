@@ -15,9 +15,6 @@
 <br />
 
 <!-- TECH STACK SECTION -->
-<p align="center">
-  <code><b>[ SYSTEM_CORE_LOADED ]</b></code>
-</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,mongodb,expressjs,npm,discordjs,python,lua,arduino,html,css&theme=dark" alt="Tech Stack" />
@@ -26,9 +23,6 @@
 ---
 
 <!-- SYSTEM METRICS / GRAPHICS GRID -->
-<p align="center">
-  <code><b>[ RETRIEVING_DATABANKS... SUCCESS ]</b></code>
-</p>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrixtia&theme=holi&animation=sequence&name=Christian+V&title_color=ffffff&text_color=ffffff&bg_color=d957db&border_color=ffffff&icon_color=18ec3b&chart_color=18ec3b" alt="Profile Details" width="750px" />
 
