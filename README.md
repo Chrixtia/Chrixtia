@@ -25,18 +25,4 @@
 <!-- SYSTEM METRICS / GRAPHICS GRID -->
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrixtia&theme=holi&animation=sequence&name=Christian+V&title_color=ffffff&text_color=ffffff&bg_color=d957db&border_color=ffffff&icon_color=18ec3b&chart_color=18ec3b" alt="Profile Details" width="750px" />
-
-<br /><br />
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chrixtia&theme=holi&animation=sequence&title_color=ffffff&text_color=ffffff&bg_color=d957db&border_color=640066&icon_color=18ec3b&chart_color=18ec3b" alt="Stats" width="370px" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chrixtia&theme=holi&animation=sequence&utcOffset=0&title_color=ffffff&text_color=ffffff&bg_color=d957db&border_color=640066&icon_color=18ec3b&chart_color=18ec3b" alt="Productive Time" width="370px" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chrixtia&theme=holi&animation=sequence&title_color=ffffff&text_color=ffffff&bg_color=d957db&border_color=640066&icon_color=18ec3b&chart_color=18ec3b" alt="Repos Per Language" width="370px" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chrixtia&theme=holi&animation=sequence&title_color=ffffff&text_color=ffffff&bg_color=d957db&border_color=640066&icon_color=18ec3b&chart_color=18ec3b" alt="Most Commit Language" width="370px" /></td>
-  </tr>
-</table>
-
 </div>
